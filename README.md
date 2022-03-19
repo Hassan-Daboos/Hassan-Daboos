@@ -1,7 +1,7 @@
 ## Hey 👋, I'm [Hassan](https://github.com/Hassan-Daboos/)
 
 <p align="center">
-  <img src="https://c.tenor.com/vW__kIdOl0EAAAAC/android-google-android.gif" />
+  <img src="https://images.prismic.io/impactio-blog/2575689d-8dfe-4d7c-b6a7-f33b170231b8_What+Does+a+Dart+and+Flutter+Developer+Do.png?auto=compress,format" />
 </p>
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/hassan-daboos/)
