@@ -11,7 +11,7 @@
 
 
 
-I'm a graduate in Computer Science 🎓 from 6 October University 🏛. I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems ✨. Apart from that I also love to guide and mentor newbies 👨🏻‍💻. I'm currently into Android Development ( Native: Java & Kotlin ).
+Computer Science 🎓 A passionate learner who's always willing to learn and work across technologies and domains 💡. Love to explore new technologies and leverage them to solve real-life problems ✨. Also love to guide and mentor beginner 👨🏻‍💻. I'm currently into Flutter Development ( Native, Crossplatform ).
 
 Joined Github **4** years ago.
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nouraldinmedhat&label=Profile%20views&color=0e75b6&style=flat" alt="nouraldinmedhat" /> </p>
@@ -25,26 +25,22 @@ Like My Work?
 
 ### Talking about Personal Stuffs:
 
-- 🛠 &nbsp; I’m currently working with Kotlin, Java, Architecture Pattern, SQL, Android Jetpack Libraries, Visual Basic.  
+- 🛠 &nbsp; I’m currently working with Dart, Java, Design Patterns, SQL.  
 - 🚀 &nbsp; I’m currently learning iOS Development.
-- 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/nouraldinMedhat).
-- 💬 &nbsp; Ask me about anything [here](https://github.com/nouraldinMedhat/nouraldinMedhat/issues/1)! I am happy to help.
-- 📫 &nbsp; How to reach me: nouraldinmadhay@gmail.com.
-- 📝 &nbsp; Checkout my [Resume](https://flowcv-user-file-uploads-prod.s3.eu-central-1.amazonaws.com/websiteButton/h0h0xjsfaotytw005gs210tfwe.pdf).
+- 💬 &nbsp; Ask me about anything [here](https://github.com/nouraldinMedhat/hassan-daboos/issues/1)! I am happy to help.
+- 📫 &nbsp; How to reach me: eng.hassanmohamed97@gmail.com.
+- 📝 &nbsp; Checkout my [Resume](https://drive.google.com/file/d/1YLP1LoFiXTm9qQvCUNeDC6k5y5xoR604/view?usp=sharing).
 
 
 
 ### Projects & Acheievemnts:
 
 
-- 🚀 &nbsp; Mr Mechanic/ Mechanic Admin
-- 🚀 &nbsp; Jooy [APK](https://play.google.com/store/apps/details?id=com.thejooy.jooy)
-- 🚀 &nbsp; Agrle Now [APK](https://play.google.com/store/apps/details?id=com.thejooy.jooy)
-- 🚀 &nbsp; Maslaha
-- 🚀 &nbsp; Fashonile
-- 🚀 &nbsp; Mask/ Mask Business 
-- 🚀 &nbsp; Shokran Egypt
-- 🚀 &nbsp; Tradx
+- 🚀 &nbsp; Qsnap [APK](https://play.google.com/store/apps/details?id=com.optimalsolutions.qsnapapp)
+- 🚀 &nbsp; Hope Water Drivers [APK](https://play.google.com/store/apps/details?id=com.optimalsolutions.hopewaterdrivers.hope_water_driver)
+- 🚀 &nbsp; MPA [APK](https://play.google.com/store/apps/details?id=com.optimalsolutions.mpa)
+- 🚀 &nbsp; Obhur Park [APK](https://play.google.com/store/apps/details?id=com.optimalsolutions.obhurpark)
+
 
 
 ### Projects and Dev Stuffs:
@@ -53,7 +49,7 @@ Like My Work?
   <summary><b>⚡ Github Stats</b></summary>
 
   <br />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nouraldinMedhat&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hassan-daboos&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
   
 </details>
 
@@ -62,8 +58,8 @@ Like My Work?
   <br />
   <summary><b>⚙️ Things I use to get stuff done</b></summary>
   	<ul>
-  	    <li><b>OS:</b> MacOS Montery</li>
-	    <li><b>Laptop: </b> Macbook Pro 2021 M1</li>
+  	    <li><b>OS:</b> Windows 11</li>
+	    <li><b>Laptop: </b> HP Notebook</li>
   	    <li><b>Browser: </b> Chrome</li>
 	    <li><b>Code Editor:</b> Android Studio, Visual Code</li>
 	    <li><b>To Stay Updated:</b> Linkedin and Twitter.</li>
