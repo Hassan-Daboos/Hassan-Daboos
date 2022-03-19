@@ -21,7 +21,7 @@ Like My Work?
 
 <a href="https://www.buymeacoffee.com/nouraldinmedhat" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="60px" width="217px" ></a>
 
-<img align="right" height="250" width="375" alt="" src="https://thumbs.gfycat.com/ImpishDiscreteGonolek-max-1mb.gif" />
+<img align="right" height="250" width="375" alt="" src="https://images.prismic.io/impactio-blog/2575689d-8dfe-4d7c-b6a7-f33b170231b8_What+Does+a+Dart+and+Flutter+Developer+Do.png?auto=compress,format" />
 
 ### Talking about Personal Stuffs:
 
