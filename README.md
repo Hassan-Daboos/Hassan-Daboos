@@ -47,7 +47,7 @@ Like My Work?
   <summary><b>⚡ Github Stats</b></summary>
 
   <br />
-  <img height="180em" src="https://images.prismic.io/impactio-blog/2575689d-8dfe-4d7c-b6a7-f33b170231b8_What+Does+a+Dart+and+Flutter+Developer+Do.png?auto=compress,format" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hassan-daboos&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
   
 </details>
 
